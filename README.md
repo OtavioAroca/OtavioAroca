@@ -2,7 +2,7 @@
 
 👋 Olá! Eu sou o João Aroca, profissional de Dados, especializado em transformar dados brutos em insights valiosos.
 
-## Sobre:
+## Sobre
 
 Sou um analista de dados e cientista de dados com experiência em manipulação, análise e visualização de dados. Tenho um forte background em estatísticas, programação e machine learning. Estou sempre buscando aprender novas tecnologias e métodos para aprimorar minhas habilidades.
 
