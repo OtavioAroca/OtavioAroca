@@ -1,6 +1,6 @@
 # **João Aroca**
 
-👋 Olá! Eu sou o João Aroca, um profissional de Dados, especializado em transformar dados brutos em insights valiosos.
+👋 Olá! Eu sou o João Aroca, profissional de Dados, especializado em transformar dados brutos em insights valiosos.
 
 ## Sobre:
 
