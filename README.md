@@ -8,6 +8,7 @@ Sou um analista de dados e cientista de dados com experiência em manipulação,
 
 
 🔗 LinkedIn: [www.linkedin.com/in/joão-aroca]
+
 💻 Site: [http://joaoaroca.my.canva.site/joaoaroca]
 
 ## Habilidades
