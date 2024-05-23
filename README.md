@@ -13,8 +13,8 @@ Sou um analista de dados e cientista de dados com experiência em manipulação,
 
 ## Habilidades
 
-Linguagens de Programação: Python, SQL
-Bibliotecas e Frameworks: Pandas, NumPy, Matplotlib, Scipy, Scikit-Learn
-Ferramentas de Visualização: Power BI, Tableau, Plotly
-Banco de Dados: PostgreSQL, MySQL, 
-Outras Habilidades: Análise Estatística, Machine Learning, ETL, Docker, Git e GitHub.
+- Linguagens de Programação: Python, SQL
+- Bibliotecas e Frameworks: Pandas, NumPy, Matplotlib, Scipy, Scikit-Learn
+- Ferramentas de Visualização: Power BI, Tableau, Plotly
+- Banco de Dados: PostgreSQL, MySQL, 
+- Outras Habilidades: Análise Estatística, Machine Learning, ETL, Docker, Git e GitHub.
