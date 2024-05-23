@@ -1,5 +1,18 @@
-👋  Olá, sou João Aroca
-- Principais Ferramentas:
-  
+João Aroca
 
-[](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ANumPy_logo_2020.svg&psig=AOvVaw0CXESsR-FEmlkzEFHr6RI3&ust=1716591074675000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiVmJvupIYDFQAAAAAdAAAAABAJ)![image](https://github.com/OtavioAroca/OtavioAroca/assets/140726202/2e4123b5-cf07-44fc-8ba6-27df38d0096f)
+👋 Olá! Eu sou o João Aroca, um profissional de Dados, especializado em transformar dados brutos em insights valiosos.
+
+SOBRE MIM
+
+Sou um analista de dados e cientista de dados com experiência em manipulação, análise e visualização de dados. Tenho um forte background em estatísticas, programação e machine learning. Estou sempre buscando aprender novas tecnologias e métodos para aprimorar minhas habilidades.
+
+🌍 Baseado em: [sua cidade/país]
+📫 Contato: [seu email]
+🔗 LinkedIn: [link para o seu perfil no LinkedIn]
+Habilidades
+
+Linguagens de Programação: Python, R, SQL
+Bibliotecas e Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
+Ferramentas de Visualização: Power BI, Tableau, Plotly
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+Outras Habilidades: Análise Estatística, Machine Learning, Processamento de Linguagem Natural (NLP), Big Data
